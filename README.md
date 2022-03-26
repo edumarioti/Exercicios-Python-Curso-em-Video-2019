@@ -1,2 +1,2 @@
-# Exercicios-Python-Curso-em-Video
- Exercícios realizados no curso de python curso em vídeo, primeiros scrips em python, inciado no mês 07/2019.
+# Exercicios Python - Curso em Video - 2019
+ Exercícios realizados no curso de python curso em vídeo com o Professor Gustavo Guanabara, primeiros scrips em python, inciado em 2019.
